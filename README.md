@@ -4,9 +4,9 @@ A simple batch script for installing Android Debug Bridge (ADB) and Fastboot too
 
 ### Features:
 - **Install ADB & Fastboot**: Easily install ADB and Fastboot tools either for the current user or system-wide.
-- **Device Driver Installation**: Installs Android device drivers for 32-bit or 64-bit systems.
+- **Device Driver Installation**: Install Android device drivers for 32-bit or 64-bit systems.
 - **Clean Installation**: Removes any existing ADB-related files to ensure a fresh installation.
-- **Version Info**: Installs the latest version of ADB (as of July 2024).
+- **Version Info**: Install the latest version of ADB.
 
 ---
 
